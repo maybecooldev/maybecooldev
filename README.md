@@ -53,26 +53,6 @@
 
 ---
 
-## 💻 Projects
-
-| Repository | Description | Language |
-|---|---|---|
-| **[sykedev-portfolio](https://github.com/maybecooldev/sykedev-portfolio)** | Personal portfolio built with Next.js | `TypeScript` |
-| **[register](https://github.com/maybecooldev/register)** | Grab your own sweet-looking `.is-a.dev` subdomain | `JavaScript` |
-| **[MacWidgets](https://github.com/maybecooldev/MacWidgets)** | Native macOS widgets | `Swift` |
-| **[MatoFlix](https://github.com/maybecooldev/MatoFlix)** | Streaming app | `Swift` |
-| **[elevator-system](https://github.com/maybecooldev/elevator-system)** | Elevator system, built because I had nothing better to do | `TypeScript` |
-| **[Python-API](https://github.com/maybecooldev/Python-API)** | API project | `HTML` |
-
----
-
-## 🌱 Currently
-
-- Building **[sykedev](https://github.com/maybecooldev/matoodev)**
-- Learning Swift properly, one crash at a time
-
----
-
 ## 📫 Reach me
 
 [![GitHub](https://img.shields.io/badge/GitHub-maybecooldev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maybecooldev)
