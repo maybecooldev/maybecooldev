@@ -38,7 +38,7 @@
 | **Languages** | Swift · TypeScript · JavaScript · HTML · CSS · Python · Shell |
 | **Frontend** | Next.js · TypeScript · JavaScript |
 | **Native** | Swift |
-| **Tools** | Git · GitHub CLI |
+| **Tools** | Git · GitHub CLI · zlib · ANSI |
 
 ---
 
@@ -50,6 +50,19 @@
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maybecooldev&theme=radical)
 
 </div>
+
+---
+
+## 💻 Projects
+
+Three command line tools. No dependencies, no build step — each one runs
+TypeScript directly on Node 22.6+.
+
+| Repository | Description |
+|---|---|
+| **[focuslog](https://github.com/maybecooldev/focuslog)** | A terminal Pomodoro timer that logs sessions and draws a contribution-style heatmap |
+| **[envcheck](https://github.com/maybecooldev/envcheck)** | Lints `.env` files for leaked secrets and values that different dotenv parsers read differently |
+| **[ansidither](https://github.com/maybecooldev/ansidither)** | Renders PNGs as terminal art, with a from-scratch PNG decoder and colour dithering |
 
 ---
 
