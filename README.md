@@ -2,7 +2,7 @@
 
 # Hey there, I'm maybecooldev 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=2E9EFF&center=true&vCenter=true&width=650&lines=full+stack+developer&lines=swift+%E2%9A%A0+typescript+%E2%9A%A0+javascript&lines=14+y%2Fo+%C2%B7+s%C3%A3o+paulo%2C+brazil&lines=building+things+that+actually+work" alt="typing" width="650"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=2E9EFF&center=true&vCenter=true&width=650&lines=full+stack+developer;swift+%E2%9A%A1+typescript+%E2%9A%A1+javascript;14+y%2Fo+%C2%B7+s%C3%A3o+paulo%2C+brazil;building+things+that+actually+work;always+learning+something+new;turning+ideas+into+code" alt="typing" width="650"/>
 
 </div>
 
